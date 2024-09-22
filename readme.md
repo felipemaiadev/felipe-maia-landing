@@ -7,7 +7,7 @@
 
 # 💻 Tech Stack:
 
-:: Main Stack
+:: Main Stack  
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
 
