@@ -7,12 +7,11 @@
 
 # 💻 Tech Stack:
 
-:: Main Stack  
+:: Main Stack    
   ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
 
-:: Enthusiast  
+:: Enthusiast    
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-
   ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=plastic&logo=elixir&logoColor=white)
 
 
@@ -40,7 +39,7 @@
   
   
 
-:: Cloud
+:: Cloud  
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
 
 
@@ -50,13 +49,13 @@
 ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=plastic&logo=node-red&logoColor=white)
 
 
-:: DevOps
+:: DevOps  
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)   
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)  
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=Prometheus&logoColor=white)   
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white)  
 
-:: GIT
+:: GIT  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)   
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)   
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=plastic&logo=bitbucket&logoColor=white)  
